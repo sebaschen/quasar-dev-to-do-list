@@ -13,12 +13,14 @@
 
 
       </q-toolbar>
-      <div class= "q-px-lg q-pt-xl q-mb-md"></div>
-      <div>
+      <div class= "q-px-lg q-pt-xl q-mb-md">
+
+      </div>
+      <div class="q-px-lg q-pt-xl q-mb-md">
         <div class = "text-h3">ToDo</div> 
         <div class="text-subtitle1">{{todaysDate}}</div>
       </div>
-      <q-img src="statics/mountains.jpg" class="header-image absolute-top"></q-img>
+    <q-img src="statics/mountains.jpg" class="header-image absolute-top"></q-img>
     </q-header>
 
          <q-drawer
@@ -27,7 +29,7 @@
         :width="250"
         :breakpoint="600"
       >
-        <q-scroll-area style="height: calc(100% - 192px); margin-top: 192px; border-right: 1px solid #ddd">
+        <q-scroll-area style="height: calc(100% - 256px); margin-top: 256px; border-right: 1px solid #ddd">
           <q-list padding>
             <q-item to="/"
             clickable v-ripple
@@ -56,7 +58,8 @@
 
           </q-list>
         </q-scroll-area>
-        <q-img class="absolute-top" src="statics/mountains.jpg" style="height: 192px">
+
+        <q-img class="absolute-top" src="statics/mountains.jpg" style="height: 256px">
           <div class="absolute-bottom bg-transparent">
             <q-avatar size="80px" class="q-mb-sm">
               <img src="statics/lipuchen.jpg">

@@ -1,0 +1,7 @@
+{
+    "ios":{
+        "debug":{
+            "buildflag":["-UseModernBuildSystem=0"]
+        }
+    }
+}

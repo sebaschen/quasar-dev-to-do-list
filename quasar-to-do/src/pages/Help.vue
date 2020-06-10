@@ -1,8 +1,8 @@
 <template>
   <q-page class="q-pa-lg">
-    <h5 class="q-mt-none"> Help </h5>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel id consequatur aut enim qui! Numquam obcaecati vitae, molestiae nobis animi maiores eaque quo aut recusandae deserunt libero id atque reiciendis!</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel id consequatur aut enim qui! Numquam obcaecati vitae, molestiae nobis animi maiores eaque quo aut recusandae deserunt libero id atque reiciendis!</p>
+    <h5 class="q-mt-none"> Li-Pu Chen Developed </h5>
+    <p>This is developed by Li-Pu Chen!</p>
+    <p> If you're interested in his work and would like to contact him, please go to his<strong> LinkedIn</strong>!</p>
   </q-page>
 </template>
 
